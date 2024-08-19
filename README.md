@@ -1,0 +1,1 @@
+# Tic-Tac-Toe is a classic two-player game 🎮 where each player tries to align three X's or O's in a row on a 3x3 grid. It's a fun and quick way to challenge a friend 👫 and test your strategy skills 🧠.
